@@ -3,6 +3,7 @@
 ![DISK](https://github.com/GeraldoSJr/Projeto-de-Pesquisa-SO/assets/64179572/1849a7b0-33b4-42de-81ca-8a99a7df8716)
 
 ****EXPLICAR ALGORITMOS****
+
 SSTF - Menor tempo de seek:
 
 C-SCAN - Elevador Circular:
